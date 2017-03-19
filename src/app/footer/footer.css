@@ -1,0 +1,10 @@
+footer {
+    bottom: 0px;
+    position: absolute;
+    width: 100%;
+}
+footer.footer {
+    background: #ddd;
+    font-size: 18px;
+    padding: 10px;
+}
